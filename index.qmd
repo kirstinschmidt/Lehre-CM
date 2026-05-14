@@ -483,7 +483,7 @@ Implikation der Definiton:
 
 ## Vertiefung {{< fa chalkboard-teacher >}}
 
-> Vertiefen Sie die Inhalte nochmals mit Ihrer Sitznachbarin/Ihrem Sitznachbarn und diskutieren Sie dabei auch Ihre Fragen, die Sie an den Text von Drechsel & Schindler (2019) gestellt haben.
+> Vertiefen Sie die Inhalte nochmals mit Ihrer Sitznachbarin/Ihrem Sitznachbarn und diskutieren Sie dabei auch Ihre Fragen, die Sie an den Text von Drechsel & Schindler (2025) gestellt haben.
 
 <center> 10 Minuten {{< fa clock >}} </center>
 
@@ -1692,7 +1692,7 @@ Berliner, D. C. (2005). The near impossibility of testing for teacher quality. J
 
 Doyle, W. (2006). Ecological approaches to classroom management. In C. M. Evertson & C. S. Weinstein (Hrsg.), Handbook of Classroom Management (S. 97–125). Mahwah, NJ: Lawrence Erlbaum. <br>
 
-Drechsel, B., & Schindler, A.-K. (2019). Unterrichtsqualität. In D. Urhahne, M. Dresel, & F. Fischer (Hrsg.), Psychologie für den Lehrberuf (S. 353–372). Springer. https://doi.org/10.1007/978-3-662-55754-9_18 <br>
+Drechsel, B., & Schindler, A.-K. (2025). Unterrichtsqualität. In D. Urhahne, M. Dresel, & F. Fischer (Hrsg.), Psychologie für den Lehrberuf (S. 433–453). Springer. https://doi.org/10.1007/978-3-662-55754-9_18 <br>
 
 Gold, B., & Syring, M. (2025). Klassenführung/Klassenmangagement. In M. Syring, T. Bohl, A. Gröschner, & A. Scheunpflug (Hrsg.). *Studienbuch Bildungswissenschaften 2. Unterricht und Schule gestalten.* https://doi.org/10.36198/9783838562193 <br> 
 
