@@ -1311,7 +1311,7 @@ TABELLE ZEIGEN
 4. Erörtern möglicher Handlungsalternativen. Listen Sie die Handlungsalternativen in der Tabelle auf.
 
 > Einzelarbeit: <br>
-5. Öffnen Sie die Aktivität "Videoanalyse: Der Fall Daniel" im Innovation Space. Nutzen Sie gerne auch die Datei "Techniken der Klassenführung - ein Überblick". Erklären Sie gemäß des vierten Analyseschritts "Erklären" (F.46) die Unterrichtssituation, die wir gemeinsam beschrieben haben. Greifen Sie dabei auch auf die Techniken der Klassenführung nach Kounin zurück. Halten Sie Ihre Teilanalyse im in __der Tabellenvorlage__ fest und laden Sie diese hoch.
+5. Öffnen Sie die Aktivität "Videoanalyse: Der Fall Daniel" im Innovation Space. Nutzen Sie gerne auch die Datei "Techniken der Klassenführung - ein Überblick". Erklären Sie gemäß des vierten Analyseschritts "Erklären" (F.34) die Unterrichtssituation, die wir gemeinsam beschrieben haben. Greifen Sie dabei auch auf die Techniken der Klassenführung nach Kounin zurück. Halten Sie Ihre Teilanalyse im in __der Tabellenvorlage__ fest und laden Sie diese hoch.
 
 > Plenum <br> 
 6. Sammlung der Erklärungen <br> 
@@ -1350,7 +1350,7 @@ JE NACH ZEIT: nur die erste Handlungsalternative der Lehrperson, oder noch eine 
 
 ::: {style="font-size: 0.57em"}
 
-1. Schauen Sie sich zunächst __die ersten 45 Minuten__ des Unterrichtsvideos __"Geographie - 7. Klasse - In den Savannen (Klassenperspektive)"__ in Ruhe und für sich an ohne dabei einen der Analyseschritte (vgl. F. 46) durchzuführen. Das Unterrichtsvideo finden Sie im Metaportal "unterrichtsvideos.net". Achten Sie dabei darauf, dass Sie das Video auswählen, das aus der __Klassenperspektive__ gedreht wurde. Um das Video abzurufen, müssen Sie sich im Metaportal einloggen und im Portal auf "Videosuche" klicken. Folgende Angaben können Ihnen die Suche erleichtern:
+1. Schauen Sie sich zunächst __die ersten 45 Minuten__ des Unterrichtsvideos __"Geographie - 7. Klasse - In den Savannen (Klassenperspektive)"__ in Ruhe und für sich an ohne dabei einen der Analyseschritte (vgl. F. 34) durchzuführen. Das Unterrichtsvideo finden Sie im Metaportal "unterrichtsvideos.net". Achten Sie dabei darauf, dass Sie das Video auswählen, das aus der __Klassenperspektive__ gedreht wurde. Um das Video abzurufen, müssen Sie sich im Metaportal einloggen und im Portal auf "Videosuche" klicken. Folgende Angaben können Ihnen die Suche erleichtern:
 
 - Nutzergruppe: Lehramtsstudierende
 - Ort: Sonstige Universität
@@ -1591,7 +1591,7 @@ Lesen Sie sich den Textauszug von Haag & Streber (2020; S.74 unten - S.77 oben) 
 1. Lesen Sie sich den Textauszug von Haag & Streber (2020; S.74 unten - S.77 oben) durch. Den Textauszug finden Sie im Innovation Space unter "Evertson nach Haag und Streber (2020)". Schauen Sie sich Ihren Videoausschnitt nochmals an, den Sie heute morgen in Ihrer Gruppe vorgestellt haben. Analysieren Sie diesen Videoausschnitt erneut, indem Sie 
 
     + in Einzelarbeit
-    + gemäß der Analyseschritte nach Syring (2017) und Kohler et al. (2015) (vgl. F. 46) auch die Classroom Management-Merkmale nach Evertson und Kolleg:innen berücksichtigen. D.h. Nehmen Sie Ihre in der Gruppe erstellte Tablle zur Hand und überarbeiten Sie die Schritte Erklären, Handlungsalternativen und ggf. Ihre Entscheidung.  
+    + gemäß der Analyseschritte nach Syring (2017) und Kohler et al. (2015) (vgl. F. 34) auch die Classroom Management-Merkmale nach Evertson und Kolleg:innen berücksichtigen. D.h. Nehmen Sie Ihre in der Gruppe erstellte Tablle zur Hand und überarbeiten Sie die Schritte Erklären, Handlungsalternativen und ggf. Ihre Entscheidung.  
     + Laden Sie Ihre überarbeitete Tabelle in der Aktivität "Part 2: In den Savannen" hoch.
 
 <center> 10 Minuten {{< fa clock >}} </center>
