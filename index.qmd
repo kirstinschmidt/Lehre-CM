@@ -1093,80 +1093,6 @@ als auch negativer Merkmale, wird eine tiefe Auseinandersetzung mit der Thematik
 -->
 
 
-
-# Einführung in die Analyse von Unterrichtsvideos {{< fa video >}}
-
-
-
-## Arbeitsauftrag {{< fa users >}}
-
-<br>
-<br> 
-
-Diskutieren Sie in zwei Minuten mit Ihrer Nachbarin / Ihrem Nachbarn folgende Frage: <br> <br>
-
-[__Welche Potenziale und Herausforderungen sehen Sie im Umgang mit Unterrichtsvideos für Ihr Studium?__]{.imp2}
-
-
-::: notes
-
-
-::: 
-
-
-## Potenziale und Herausforderungen von Unterrichtsvideos {{< fa plus >}}
-
-::: {style="font-size: 0.6em"}
-[__Potenziale__]{.imp2} <br> 
-
-* Unterrichtsvideos sind realitätsnahe und machen Unterrichtsprozesse in ihrer Komplexität und Variabilität sichtbar. 
-* CM-Kompetenz setzt sich aus theoretischem Wissen über CM und der praktischen Umsetzung von CM zusammen, Förderung muss also beide Komponenten adressieren
-&rarr; Lernen mit Unterrichtsvideos fördert u.a. die Analysekompetenz und erlaubt eine Integration von theoretischem Wissen über CM in Praxissituationen <br>
-(vgl. Syring et al 2013, S.83f.)
-
-
-[__Herausforderungen:__]{.imp2} <br> 
-
-* Tendenz zum Beurteilen des Unterrichts
-* Begrenzheit durch Inszenierung und Kameraführung
-* begrenzte Kontextinformationen
-<br>
-(z.B. Krammer & Reusser, 2005)
-
-:::
-
-::: notes 
-
-Theorie-Praxis-Verknüpfung als Problem der Lehrer:innenbildung (Oser, 2001; Terhart, 2000)
-
-Als größtes Hindernis für den Theorie-Praxis-Transfer: Komplexität des Unterrichtsgeschehens….!
-
-Reflection in action daher oft nicht möglich;  reflection on action (nachträglich)
-
-
-Potenziale:
-
-- erfolgreiches Classroom-Management benötigt eine kontinuierliche Reflexion des eigenen Handelns; hierfür Analyse von Unterrichtsprozessen notwendig
-- Analyse von Unterrichtsprozessen erlernbar z.B. mittels Fallarbeit
-  - Videos als eine Möglichkeit von Fallarbeit
-  - Videos realitätsnahe, machen komplexes Unterrichtsgeschehen sichtbar
-  - ermöglicht beides: Förderung des theoretischen Wissens, aber erlaubt auch an die Fähigkeit - praktische Umsetzung -  ran zu kommen
-
-Herausforderungen:
-
-- man neigt schnell dazu den Unterricht zu beurteilen - guter / schlechter Unterricht
-- natürlich auch begrenzt: relalitätsnahe, aber Kameraführung oder Inszenierung Limitation
-- fehlende Kontextinformationen
-
-
-
-
-- primäres Ziel: Förderung der Analysekompetenz
-  - "Fähigkeit der Lehrperson zur Beobachtung, theoriegestützten Herleitung, Anwendung und kritischen Reflexion pädagogischer und fachdidaktischer Aushandlungs- und Interaktionsprozesse in Unterricht und Schule bezogen auf konkrete Fragestellungen" (Syring et al. 2013) &rarr; Voraussetzung für Reflexionsfähigkeit
-
-
-::: 
-
 # Vielen Dank!{.cent1}
 
 ::: notes
@@ -1174,6 +1100,7 @@ Herausforderungen:
 Erinnerung an Kopfhörer und Anmeldung im Portal
 
 :::
+
 
 
 ## (weiterführende) Literatur {{< fa book-open >}}{.scrollable}
@@ -1255,6 +1182,81 @@ Pädagogische Hochschule Karlsruhe <br>
 * Merkmale des Classroom Managements nach Evertson und Kolleg:innen kennen und anwenden können 
 * Verschiedene Verständnisse von Classroom Management kontrastieren können
 
+
+# Einführung in die Analyse von Unterrichtsvideos {{< fa video >}}
+
+
+
+## Arbeitsauftrag {{< fa users >}}
+
+<br>
+<br> 
+
+Diskutieren Sie in zwei Minuten mit Ihrer Nachbarin / Ihrem Nachbarn folgende Frage: <br> <br>
+
+[__Welche Potenziale und Herausforderungen sehen Sie im Umgang mit Unterrichtsvideos für Ihr Studium?__]{.imp2}
+
+
+::: notes
+
+
+::: 
+
+
+## Potenziale und Herausforderungen von Unterrichtsvideos {{< fa plus >}}
+
+::: {style="font-size: 0.6em"}
+[__Potenziale__]{.imp2} <br> 
+
+* Unterrichtsvideos sind realitätsnahe und machen Unterrichtsprozesse in ihrer Komplexität und Variabilität sichtbar. 
+* CM-Kompetenz setzt sich aus theoretischem Wissen über CM und der praktischen Umsetzung von CM zusammen, Förderung muss also beide Komponenten adressieren
+&rarr; Lernen mit Unterrichtsvideos fördert u.a. die Analysekompetenz und erlaubt eine Integration von theoretischem Wissen über CM in Praxissituationen <br>
+(vgl. Syring et al 2013, S.83f.)
+
+
+[__Herausforderungen:__]{.imp2} <br> 
+
+* Tendenz zum Beurteilen des Unterrichts
+* Begrenzheit durch Inszenierung und Kameraführung
+* begrenzte Kontextinformationen
+<br>
+(z.B. Krammer & Reusser, 2005)
+
+:::
+
+::: notes 
+
+Theorie-Praxis-Verknüpfung als Problem der Lehrer:innenbildung (Oser, 2001; Terhart, 2000)
+
+Als größtes Hindernis für den Theorie-Praxis-Transfer: Komplexität des Unterrichtsgeschehens….!
+
+Reflection in action daher oft nicht möglich;  reflection on action (nachträglich)
+
+
+Potenziale:
+
+- erfolgreiches Classroom-Management benötigt eine kontinuierliche Reflexion des eigenen Handelns; hierfür Analyse von Unterrichtsprozessen notwendig
+- Analyse von Unterrichtsprozessen erlernbar z.B. mittels Fallarbeit
+  - Videos als eine Möglichkeit von Fallarbeit
+  - Videos realitätsnahe, machen komplexes Unterrichtsgeschehen sichtbar
+  - ermöglicht beides: Förderung des theoretischen Wissens, aber erlaubt auch an die Fähigkeit - praktische Umsetzung -  ran zu kommen
+
+Herausforderungen:
+
+- man neigt schnell dazu den Unterricht zu beurteilen - guter / schlechter Unterricht
+- natürlich auch begrenzt: relalitätsnahe, aber Kameraführung oder Inszenierung Limitation
+- fehlende Kontextinformationen
+
+
+
+
+- primäres Ziel: Förderung der Analysekompetenz
+  - "Fähigkeit der Lehrperson zur Beobachtung, theoriegestützten Herleitung, Anwendung und kritischen Reflexion pädagogischer und fachdidaktischer Aushandlungs- und Interaktionsprozesse in Unterricht und Schule bezogen auf konkrete Fragestellungen" (Syring et al. 2013) &rarr; Voraussetzung für Reflexionsfähigkeit
+
+
+::: 
+
+
 ## Einführung in die strukturierte Analyse von Unterrichtsvideos {{< fa video >}}
 
 <br>
@@ -1282,8 +1284,8 @@ Pädagogische Hochschule Karlsruhe <br>
 | Analyseschritt | Mögliche Leitfragen | Beispielantworten |
 |--|----------|----------|
 |1. [__relevante Situationen identifizieren__]{.imp2}| - Welche Situationen sind relevant bzw. interessant vor dem Hintergrund der gewählten Theorie (im Seminar: Classroom Management)? <br>*Tipp: Schauen Sie sich das Video zunächst einmal am Stück an, bevor Sie in der zweiten Runde die relevanten Situationen identifizieren.*| Unterrichtsbeginn|
-2. ausgewählte [__Situation beschreiben__]{.imp2}|Was ist die Ausgangssituation ? (z.B. Was geschieht? Wen sehe ich? Was sehe ich?; Hilfestellung: Standbild) | Schüler:innen sitzen auf ihren Plätzen. Lehrperson steht vor der Klasse. Ein Schüler betritt den Raum. |
-3. [__mögliche Handlungsalternativen (inklusive der Handlung der Lehrperson) erörtern__]{.imp2} | - Wie handelt die Lehrperson? <br> - Welche Handlungen sind noch denkbar? | - Handlungsalternative 1 (tatsächliche Handlung der Lehrperson): Lehrperson unterbricht ihren Unterricht, widmet sich ausschließlich dem Schüler zu. <br> - Sie hält dem Schüler eine ausführliche Standpauke, die insgesamt 20 Sekunden dauert. <br> - Handlungsalternative 2: Die Lehrperson nickt dem zuspätkommenden Schüler zu und spricht ihn nach der Schule an.|
+2. ausgewählte [__Situation beschreiben__]{.imp2}|Was ist die Ausgangssituation ? (z.B. Was geschieht? Wen sehe ich? Was sehe ich?; Hilfestellung: Standbild) | Schüler:innen sitzen auf ihren Plätzen. Lehrperson steht vor der Klasse. Ein Schüler steht im Türrahmen. |
+3. [__mögliche Handlungsalternativen (inklusive der Handlung der Lehrperson) erörtern__]{.imp2} | - Wie handelt die Lehrperson? <br> - Welche Handlungen sind noch denkbar? | - Handlungsalternative 1 (tatsächliche Handlung der Lehrperson): Lehrperson unterbricht ihren Unterricht, widmet sich dem Schüler im Türrahmen zu. <br> - Sie ermahnt den Schüler lautstark. Die  Ermahnung dauert insgesamt 20 Sekunden. <br> - Handlungsalternative 2: Die Lehrperson nickt dem zuspätkommenden Schüler zu und spricht ihn nach der Schule an.|
 4.[__Handlungsalternativen erklären__]{.imp2}, insbesondere durch das Anwenden des konzeptuellen [__Wissens zum Thema Classroom Management__]{.imp2} | - Welche Ursachen haben diese Handlungen?  <br> - Welche Konsequenzen haben diese Handlungen? - Welche Merkmale des Classroom Managements werden (nicht) angewendet ? | - Handlungsalternative 1: Da die Lehrperson nur diesem Schüler ihre volle Aufmerksamkeit widmet, ist die Überlappung eingeschränkt (-). <br> - Möglicherweise ist der Schüler schon häufiger zu spät gekommen, obwohl "Pünktlichkeit" als Regel festgelegt ist. Die Lehrperson überproblematisiert das Zuspätkommen und verliert so den Schwung ihres Unterrichts (-). <br> - Handlungsalternative 2: Da die Lehrperson dem Schüler zu nickt und ihre Erklärungen weiterführt, handelt sie überlappend (+). Außerdem verlagert sie das Gespräch auf die Zeit nach dem Unterricht, wodurch Reibungslosigkeit und Schwung gewährleistet ist (+). |
 5. [__Beurteilung/Entscheidung vor dem Hintergrund der Theorie (im Seminar: Classroom Management)__]{.imp2} | Für welche Handlungsalternative würde ich mich entscheiden? Warum? | - Ich würde mich für Handlungsalternative 2 entscheiden, um zentrale Merkmale der Klassenführung - Überlappung, Reibungslosigkeit und Schwung - zu gewährleisten.|
 
