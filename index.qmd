@@ -1598,9 +1598,12 @@ Lesen Sie sich den Textauszug von Haag & Streber (2020; S.74 unten - S.77 oben) 
 
 <center> 15 Minuten {{< fa clock >}} </center>
 
+<!-- 
 2.	Treffen Sie sich mit einer Kommilitonin / einem Kommilitonen aus Ihrer Analysegruppe von gestern. Vergleichen Sie Ihre Überarbeitungen: Haben Sie sich auf die gleichen / verschiedene Merkmale von Evertson und Kolleg:innen bezogen? Haben Sie weitere Handlungsalternativen entwickelt? Sind Sie zu einer anderen Entscheidung gekommen? Bitte stellen Sie sich Ihre Ausarbeitungen gegenseitig vor, diskutieren und ergänzen Sie ggf. Ihre eigene Analyse.
 
 <center> 15 Minuten {{< fa clock >}} </center>
+
+-->
 
 <!-- 
 3.	Nun kommen Sie in neu zugeteilten Gruppen zusammen, in der jeweils ein Mitglied der Analysegruppen von gestern vertreten ist. 
